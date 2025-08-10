@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbdulHanan160
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Game development
+- 👀 I am Web developer
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me through Github
 - 😄 Pronouns: He/She Both
